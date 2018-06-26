@@ -1,0 +1,13 @@
+{
+  "id": "messages",
+  "name": "Android Messages",
+  "version": "1.0.4",
+  "description": "Android Messages",
+  "main": "index.js",
+  "author": "Rick Egli <regli@asu.edu>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://messages.android.com",
+    "hasNotificationSound": true
+  }
+}
